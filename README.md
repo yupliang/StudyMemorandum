@@ -10,6 +10,7 @@
 - 深入学习NSArray与NSMutableArray
 - 异常与未知选择器
 - 如何为类命名
+- Autorelease池与ARC历史
 
 ## 《山海经》
 - 南次一经
