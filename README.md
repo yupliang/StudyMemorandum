@@ -15,6 +15,7 @@
 ## 《汇编语言》
 - 搭配实验环境
 - Debug中跟踪用loop指令实现的循环程序
+- Debug和汇编编译器masm对指令的不同处理
 
 ## URL loading system
 - NSURLProtocol
