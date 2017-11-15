@@ -13,6 +13,7 @@
 - Autorelease池与ARC历史
 - 响应对象链
 - UIControl
+- main（）与UIApplication
 
 ## 《山海经》
 - 南次一经
