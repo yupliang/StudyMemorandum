@@ -22,6 +22,7 @@
 - Debug和汇编编译器masm对指令的不同处理
 - loop和[bx]的联合应用
 - 段前缀
+- 一段安全的空间
 
 ## URL loading system
 - NSURLProtocol
