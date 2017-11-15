@@ -14,6 +14,7 @@
 - 响应对象链
 - UIControl
 - main（）与UIApplication
+- UIResponder
 
 ## 《山海经》
 - 南次一经
