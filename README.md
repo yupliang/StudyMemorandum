@@ -21,6 +21,7 @@
 - Debug中跟踪用loop指令实现的循环程序
 - Debug和汇编编译器masm对指令的不同处理
 - loop和[bx]的联合应用
+- 段前缀
 
 ## URL loading system
 - NSURLProtocol
