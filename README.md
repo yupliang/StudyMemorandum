@@ -17,6 +17,8 @@
 - main（）与UIApplication
 - UIResponder
 - Core Graphics
+- 键值编码
+
 
 ## 《山海经》
 - 南次一经
