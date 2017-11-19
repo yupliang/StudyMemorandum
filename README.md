@@ -30,6 +30,7 @@
 - 段前缀的使用
 - [bx]和loop的使用
 - 在代码段中使用数据
+- 在代码段中使用栈
 
 ## URL loading system
 - NSURLProtocol
