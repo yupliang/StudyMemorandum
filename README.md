@@ -37,6 +37,7 @@
 - [bx]和loop的使用
 - 在代码段中使用数据
 - 在代码段中使用栈
+- 将数据、代码、栈放入不同的段
 
 ## URL loading system
 - NSURLProtocol
