@@ -43,6 +43,7 @@
 - 编写、调试具有多个段的程序
 - and 和 or 指令
 - 关于ASCII码
+- 以字符形式给出的数据
 
 ## URL loading system
 - NSURLProtocol
