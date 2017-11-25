@@ -41,6 +41,7 @@
 - 在代码段中使用栈
 - 将数据、代码、栈放入不同的段
 - 编写、调试具有多个段的程序
+- and 和 or 指令
 
 ## URL loading system
 - NSURLProtocol
