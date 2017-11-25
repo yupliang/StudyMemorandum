@@ -42,6 +42,7 @@
 - 将数据、代码、栈放入不同的段
 - 编写、调试具有多个段的程序
 - and 和 or 指令
+- 关于ASCII码
 
 ## URL loading system
 - NSURLProtocol
