@@ -47,7 +47,7 @@
 - 以字符形式给出的数据
 - 大小写转换的问题
 - 用[bx+idata]的方式进行数组的处理
-- SI和
+- [bx+si]和[bx+di]
 
 ## URL loading system
 - NSURLProtocol
