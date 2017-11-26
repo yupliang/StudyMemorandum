@@ -48,6 +48,7 @@
 - 大小写转换的问题
 - 用[bx+idata]的方式进行数组的处理
 - [bx+si]和[bx+di]
+- [bx+si+idata]和[bx+di+idata]
 
 ## URL loading system
 - NSURLProtocol
