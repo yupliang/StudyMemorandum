@@ -52,5 +52,6 @@
 
 ## Archives and Serializations Programming Guide
 - Encoding and Decoding C Data Types
+- Forward and Backward Compatibility for Keyed Archives
 
 😇
