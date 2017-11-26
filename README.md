@@ -46,6 +46,7 @@
 - 关于ASCII码
 - 以字符形式给出的数据
 - 大小写转换的问题
+- 用[bx+idata]的方式进行数组的处理
 
 ## URL loading system
 - NSURLProtocol
