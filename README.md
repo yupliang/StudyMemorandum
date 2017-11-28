@@ -50,6 +50,7 @@
 - 用[bx+idata]的方式进行数组的处理
 - [bx+si]和[bx+di]
 - [bx+si+idata]和[bx+di+idata]
+- 不同的寻址方式的灵活应用
 
 ## URL loading system
 - NSURLProtocol
