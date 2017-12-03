@@ -52,6 +52,7 @@
 - [bx+si+idata]和[bx+di+idata]
 - 不同的寻址方式的灵活应用
 - bx\si\di bp
+- div指令
 
 ## URL loading system
 - NSURLProtocol
