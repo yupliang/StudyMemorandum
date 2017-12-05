@@ -57,6 +57,7 @@
 
 ## URL loading system
 - NSURLProtocol
+- NSURLRequest
 
 ## Archives and Serializations Programming Guide
 - Encoding and Decoding C Data Types
