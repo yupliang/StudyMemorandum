@@ -54,6 +54,7 @@
 - 不同的寻址方式的灵活应用
 - bx\si\di bp
 - div指令
+- call和ret配合使用
 
 ## URL loading system
 - NSURLProtocol
