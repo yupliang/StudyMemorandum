@@ -56,7 +56,7 @@
 - bx\si\di bp
 - div指令
 - call和ret配合使用
-
+- <img src="https://github.com/yupliang/StudyMemorandum/blob/yupliang-patch-1/123.png" alt="AFNetworking" title="kcsj1diy">
 ## URL loading system
 - NSURLProtocol
 - NSURLRequest
